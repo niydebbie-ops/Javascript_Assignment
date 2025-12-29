@@ -3,8 +3,6 @@
 
 // 1.Tonnage Validation
 
-// Task:
-
 // Declare a variable procurementTonnage (in kg).
 
 // Use the >= operator to check if it meets the minimum 1000 kg requirement.
@@ -18,7 +16,6 @@ console.log(meetsRequirement); // true or false
 
 
 // 2. Strictness Check
-//Task:
 
 //Compare cost as a string vs number.
 
